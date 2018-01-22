@@ -1,5 +1,9 @@
 RCy3 README
 -----------------
+Alexander Pico is taking over leadership for this project. Please go to
+https://github.com/AlexanderPico/Bioconductor_RCy3_the_new_RCytoscape
+for the latest version of RCy3.
+-----------------
 Unit tests are a crucial tool in software development.
 In order to run them 'offline' (not on the Bioconductor build system),
 take these steps from within a running R session:
