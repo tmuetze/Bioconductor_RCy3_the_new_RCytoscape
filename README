@@ -1,7 +1,8 @@
 RCy3 README
 -----------------
-Alexander Pico is taking over leadership for this project. Please go to
-https://github.com/AlexanderPico/Bioconductor_RCy3_the_new_RCytoscape
+Alexander Pico is taking over leadership for this project, 
+which is being adopted by Cytoscape. Please go to
+https://github.com/cytoscape/RCy3
 for the latest version of RCy3.
 -----------------
 Unit tests are a crucial tool in software development.
